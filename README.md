@@ -21,7 +21,7 @@ This repository showcases **end-to-end projects** using tools like **Excel, SQL,
 Below are my end-to-end data analytics projects using tools like Excel, SQL, Python, Tableau, and Power BI.  
 Each project includes data cleaning, EDA, visualization, and actionable insights. 
 
-### 🔹 1. [Excel Data Digitization – School Management](./excel-data-digitization-school-management/)
+### 🔹 1. [Excel Data Digitization – School Management](https://github.com/Naveen-Insightor/excel-data-digitization-school-management)
 > Consulted Scion’s Destiny Preschool to digitize manual records. Designed clean Excel templates for admissions, attendance, and fees tracking. Delivered a 3-week solution with staff training, improving operational efficiency and data accessibility.
 
 ---
@@ -31,32 +31,32 @@ Each project includes data cleaning, EDA, visualization, and actionable insights
 
 ---
 
-### 🔹 3. [Superstore Analytics – Statistical Insights (Excel)](./superstore-analytics-statistical-insights/)
+### 🔹 3. [Superstore Analytics – Statistical Insights (Excel)](https://github.com/Naveen-Insightor/superstore-analytics-statistical-insights)
 > Gained hands-on experience with core statistical concepts like mean, variance, and distribution using the Superstore dataset. Cleaned data, analyzed trends across regions and categories, explored time series patterns, and planned hypothesis testing. Built Excel dashboards to visualize key insights.
 
 ---
 
-### 🔹 4. [Bank Transaction Performance – Tableau Dashboard](./Tableau-Bank-Transaction-Performance/)
+### 🔹 4. [Bank Transaction Performance – Tableau Dashboard](https://github.com/Naveen-Insightor/Tableau-Bank-Transaction-Performance)
 > Interactive Tableau dashboard analyzing 60K+ banking transactions across multiple branches. Visualizes trends in credit/debit volumes, customer behavior, and branch performance using KPIs, filters, and multi-chart views. Designed for quick insight generation and business decision-making.
 
 ---
 
-### 🔹 5. [SQL Store Performance Analyzer](./SQL-store-performance-analyzer/)
+### 🔹 5. [SQL Store Performance Analyzer](https://github.com/Naveen-Insightor/SQL-store-performance-analyzer)
 > End-to-end SQL project using a retail dataset to uncover powerful sales and customer insights. Built from DDL creation to advanced window functions, stored procedures, triggers, and KPIs. Includes YoY, MoM, WoW, QoQ growth analysis, ranking logic, and customer/product segmentation. Showcases advanced SQL skills.
 
 ---
 
-### 🔹 6. [Employee Productivity Insights – SQL Project](./employee-productivity-insights-sql/)
+### 🔹 6. [Employee Productivity Insights – SQL Project](https://github.com/Naveen-Insightor/employee-productivity-insights-sql)
 > Analyzed daily work logs and employee metadata to assess productivity. Identified underperformers, top contributors, and workload trends. Recommended actions for optimized workforce performance using SQL queries and logic-based segmentation.
 
 ---
 
-### 🔹 7. [Sales Analysis Dashboard – Power BI](./Sales-Analysis-Dashboard-PowerBI/)
+### 🔹 7. [Sales Analysis Dashboard – Power BI](https://github.com/Naveen-Insightor/Sales-Analysis-Dashboard-PowerBI)
 > Interactive Power BI dashboard analyzing Sales, COGS, Profit, and Units Sold. Breaks down insights by Country, Product, Segment, and Discount Band. Built with dynamic filters for Year, Quarter, and KPIs. Visual storytelling with pie, bar, and trend charts.
 
 ---
 
-### 🔹 8. [Premium Chocolates Sales – Power BI Dashboard](./Premium-chocolates-sales-dashboard/)
+### 🔹 8. [Premium Chocolates Sales – Power BI Dashboard](https://github.com/Naveen-Insightor/Premium-chocolates-sales-dashboard)
 > A Power BI dashboard analyzing sales performance of Awesome Chocolates. Includes regional, product-wise, and seasonal trends. Advanced visuals, DAX, and slicers used for dynamic analysis. Helps identify profit-driving segments and discount impact. Ideal for business decision-making and strategy planning.
 
 ---
@@ -74,7 +74,7 @@ Each project includes data cleaning, EDA, visualization, and actionable insights
 ---
 
 ## 🧠 About Me
-🎓 MBA in Analytics & Finance | 💻 Data Analyst Trainee  
+🎓 MBA in Analytics & Finance | 💻 Data Analyst 
 📌 Tools: Excel, SQL, Python, Power BI, Tableau  
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
 
