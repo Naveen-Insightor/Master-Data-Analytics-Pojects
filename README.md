@@ -60,7 +60,8 @@ Each project includes data cleaning, EDA, visualization, and actionable insights
 > A Power BI dashboard analyzing sales performance of Awesome Chocolates. Includes regional, product-wise, and seasonal trends. Advanced visuals, DAX, and slicers used for dynamic analysis. Helps identify profit-driving segments and discount impact. Ideal for business decision-making and strategy planning.
 
 ---
-
+### 🔹 9. [Banking Data Analysis – Dashboard & PPT Storytelling](https://github.com/Naveen-Insightor/Financial-Data-Storytelling-Dashboards-ppt/blob/main/README.md)
+> A complete banking analytics case study using SQL, Excel, Tableau, and Power BI. Analyzes 65K+ loan records and ₹255M in transactions. Dashboards showcase KPIs like loan defaults, spending patterns, and bank-wise performance. Includes a polished PPT for effective data storytelling and business recommendations. Ideal for showcasing BI and presentation skills.
 ---
 
 ## 📸 Sample Dashboards:
