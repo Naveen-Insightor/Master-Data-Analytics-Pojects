@@ -77,7 +77,7 @@ Each project includes data cleaning, EDA, visualization, and actionable insights
 ## 🧠 About Me
 🎓 MBA in Analytics & Finance | 💻 Data Analyst 
 📌 Tools: Excel, SQL, Python, Power BI, Tableau  
-📬 Let’s connect: [LinkedIn]([https://www.linkedin.com/in/naveen-simha-data-analyst/]
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/naveen-simha-data-analyst/)
 ---
 
 ⭐️ **Star this repo** if you find it inspiring!  
