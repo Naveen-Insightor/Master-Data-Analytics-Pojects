@@ -64,7 +64,7 @@ Each project includes data cleaning, EDA, visualization, and actionable insights
 > A complete banking analytics case study using SQL, Excel, Tableau, and Power BI. Analyzes 65K+ loan records and ₹255M in transactions. Dashboards showcase KPIs like loan defaults, spending patterns, and bank-wise performance. Includes a polished PPT for effective data storytelling and business recommendations. Ideal for showcasing BI and presentation skills.
 ---
 ### 🔹 10. [Financial_Model_5_Year_Forecast-Excel](https://github.com/Naveen-Insightor/Financial_Model_5_Year_Forecast-Excel)
-> A complete banking analytics case study using SQL, Excel, Tableau, and Power BI. Analyzes 65K+ loan records and ₹255M in transactions. Dashboards showcase KPIs like loan defaults, spending patterns, and bank-wise performance. Includes a polished PPT for effective data storytelling and business recommendations. Ideal for showcasing BI and presentation skills.
+> An Excel-based dynamic financial model projecting revenue, COGS, OPEX, and profitability from 2025 to 2029. Includes automated calculations, visual dashboards, and strategic insightAn Excel-based dynamic financial model projecting revenue, COGS, OPEX, and profitability from 2025 to 2029. Includes automated calculations, visual dashboards, and strategic insight.
 ---
 ## 📸 Sample Dashboards:
 ![Screenshot 2025-07-02 140530](https://github.com/user-attachments/assets/b97028cb-c013-4245-b291-70d0aaee9412)
