@@ -63,7 +63,9 @@ Each project includes data cleaning, EDA, visualization, and actionable insights
 ### 🔹 9. [Banking Data Analysis – Dashboard & PPT Storytelling](https://github.com/Naveen-Insightor/Financial-Data-Storytelling-Dashboards-ppt/blob/main/README.md)
 > A complete banking analytics case study using SQL, Excel, Tableau, and Power BI. Analyzes 65K+ loan records and ₹255M in transactions. Dashboards showcase KPIs like loan defaults, spending patterns, and bank-wise performance. Includes a polished PPT for effective data storytelling and business recommendations. Ideal for showcasing BI and presentation skills.
 ---
-
+### 🔹 10. [Financial_Model_5_Year_Forecast-Excel](https://github.com/Naveen-Insightor/Financial_Model_5_Year_Forecast-Excel)
+> A complete banking analytics case study using SQL, Excel, Tableau, and Power BI. Analyzes 65K+ loan records and ₹255M in transactions. Dashboards showcase KPIs like loan defaults, spending patterns, and bank-wise performance. Includes a polished PPT for effective data storytelling and business recommendations. Ideal for showcasing BI and presentation skills.
+---
 ## 📸 Sample Dashboards:
 ![Screenshot 2025-07-02 140530](https://github.com/user-attachments/assets/b97028cb-c013-4245-b291-70d0aaee9412)
 
